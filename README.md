@@ -6,7 +6,7 @@ my model looks like this
 ![image](https://user-images.githubusercontent.com/57533959/134364191-4d7f422e-88a6-487d-88ad-f66498f574ec.png)
 
 
-The data set that i used can be found here.
+The data set that i used can be found [here]{https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge}.
 
 It contains a total of 1000 images.
 
