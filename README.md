@@ -10,7 +10,7 @@ The data set that i used can be found [here](https://www.kaggle.com/kumaresanman
 
 It contains a total of 1000 images.
 
-I was able to get 97.11% on training set.
+I was able to get 96.29% on training set and 96.40% on validation set.
 
 Here are few of the final predictions:-
   
